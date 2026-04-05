@@ -1,1 +1,22 @@
+# Linux Commands Practiced
 
+pwd        - Show current directory
+ls         - List files in directory
+ls -la     - List all files with permissions
+cd         - Change directory
+mkdir      - Create new directory
+rm         - Delete file
+rm -r      - Delete directory recursively
+cp         - Copy files
+mv         - Move/rename files
+cat        - View file content
+nano       - Edit files
+grep       - Search inside files
+find       - Locate files in system
+chmod      - Change file permissions
+chown      - Change file ownership
+history    - Show command history
+top        - View running processes
+ps aux     - List running processes
+kill       - Stop a process
+clear      - Clear terminal screen
