@@ -1,4 +1,4 @@
-# Linux Commands Practiced
+## Linux Commands Practiced
 
 pwd        - Show current directory
 ls         - List files in directory
